@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/LeonisDev/LeonisDev/blob/main/Head.gif" alt="header"/>
+  <img src="https://github.com/LeonisDev/LeonisDev/blob/main/Cover.jpg" alt="header"/>
 </div>
 
 <h2 align="center">Who am I?</h2>
